@@ -10,9 +10,8 @@ tags:
   - FKIK-UIN-Malang
 aliases:
   - home
-  - index
   - beranda
-  - buku saku bedah saraf
+  - buku-saku-bedah-saraf
 ---
 
 # 🧠 Buku Saku Bedah Saraf
@@ -32,7 +31,7 @@ aliases:
 
 ## 🗺️ Navigasi Cepat
 
-```
+```text
 Baru masuk stase?         → Mulai dari 2A
 Pasien trauma kepala?     → 2B → 2C → 2D
 CT scan sudah keluar?     → 2D
